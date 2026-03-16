@@ -20,7 +20,7 @@ Return on Capital:
 • 139.51% on minimum capital  
 
 Maximum Drawdown: ₹2,61,683
-___
+
 # Strategy Highlight
 
 🚀 **Backtested Performance (2024)**
