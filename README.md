@@ -148,10 +148,10 @@ Download the historical NIFTY options dataset from Kaggle:
 
 ### Step 2 — Run Data Consolidation Notebook
 
-Execute the notebook:
+Execute the notebook located in the **data** folder:
 
 ```
-FNO 2024 Nifty50 Data Consolidator.ipynb
+data/FNO_2024_Nifty50_Data_Consolidator.ipynb
 ```
 
 This notebook processes expiry-wise files and produces a **single consolidated dataset** required by the strategy.
@@ -179,17 +179,22 @@ Once this file is available, the **backtest notebook can run using the full data
 # Project Structure
 
 ```
-survivor-options-strategy/
+nifty-options-quant-backtester/
 │
-├── survivor_strategy_backtest.ipynb
+├── backtest/
+│   └── survivor_strategy_backtest.ipynb
+│
+├── optimizer/
+│   └── parameter_optimizer.ipynb
+│
+├── data/
+│   ├── FNO_2024_Nifty50_Data_Consolidator.ipynb
+│   ├── NIFTY_OPTIONS_SAMPLE.parquet
+│   └── README.md
+│
 ├── README.md
 ├── requirements.txt
-├── .gitignore
-│
-└── data/
-    ├── README.md
-    ├── NIFTY_OPTIONS_SAMPLE.parquet
-    └── NIFTY_OPTIONS_2024_CONSOLIDATED.parquet
+└── .gitignore
 ```
 
 ---
