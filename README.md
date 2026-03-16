@@ -58,6 +58,37 @@ The framework:
 Signals are generated using **5-minute candles derived from 1-minute raw data**.
 
 ---
+## Strategy Performance Visualizations
+
+### Equity Curve
+
+![Equity Curve](Images/equity_curve.png)
+
+---
+
+### Cumulative P&L Curve
+
+![Cumulative P&L](Images/PNL.png)
+
+---
+
+### Monthly P&L Heatmap
+
+![Monthly Heatmap](Images/Monthly_Heatmap.png)
+
+---
+
+### Daily P&L Calendar Heatmap
+
+![Daily Calendar Heatmap](Images/Daily_Calendar_Heatmap.png)
+
+---
+
+### Trade-wise Profit / Loss Distribution
+
+![Trade Distribution](Images/Trade-wise Profit_Loss.png)
+
+___
 
 # Key Features
 
@@ -273,35 +304,3 @@ is based on **historical backtesting using 2024 data** and does not account for:
 * execution delays
 
 Actual trading results may differ significantly.
-## Strategy Performance Visualizations
-## Strategy Performance Visualizations
-
-### Equity Curve
-
-![Equity Curve](Images/equity_curve.png)
-
----
-
-### Cumulative P&L Curve
-
-![Cumulative P&L](Images/PNL.png)
-
----
-
-### Monthly P&L Heatmap
-
-![Monthly Heatmap](Images/Monthly_Heatmap.png)
-
----
-
-### Daily P&L Calendar Heatmap
-
-![Daily Calendar Heatmap](Images/Daily_Calendar_Heatmap.png)
-
----
-
-### Trade-wise Profit / Loss Distribution
-
-![Trade Distribution](Images/Trade-wise Profit_Loss.png)
-
-___
