@@ -274,33 +274,32 @@ is based on **historical backtesting using 2024 data** and does not account for:
 
 Actual trading results may differ significantly.
 ## Strategy Performance Visualizations
+## Strategy Performance Visualizations
 
 ### Equity Curve
 
-![Equity Curve](images/equity_curve.png)
+![Equity Curve](Image/equity_curve.png)
 
 ---
 
 ### Cumulative P&L Curve
 
-![Cumulative P&L](images/PNL.png)
+![Cumulative P&L](Image/PNL.png)
 
 ---
 
 ### Monthly P&L Heatmap
 
-![Monthly Heatmap](images/Monthly_Heatmap.png)
+![Monthly Heatmap](Image/Monthly_Heatmap.png)
 
 ---
 
 ### Daily P&L Calendar Heatmap
 
-![Daily Calendar Heatmap](images/Daily_Calendar_Heatmap.png)
+![Daily Calendar Heatmap](Image/Daily_Calendar_Heatmap.png)
 
 ---
 
 ### Trade-wise Profit / Loss Distribution
 
-![Trade Distribution](images/Trade-wise Profit_Loss.png)
-
-___
+![Trade Distribution](Image/Trade-wise Profit_Loss.png)
