@@ -273,3 +273,18 @@ is based on **historical backtesting using 2024 data** and does not account for:
 * execution delays
 
 Actual trading results may differ significantly.
+## Equity Curve
+
+![Equity Curve](images/equity_curve.png)
+
+## Monthly P&L Heatmap
+
+![Monthly Heatmap](images/monthly_heatmap.png)
+
+## Daily P&L Calendar
+
+![Calendar](images/daily_calendar_heatmap.png)
+
+## Trade Distribution
+
+![Trade Distribution](images/trade_distribution.png)
