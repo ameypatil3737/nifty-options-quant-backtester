@@ -304,3 +304,12 @@ is based on **historical backtesting using 2024 data** and does not account for:
 * execution delays
 
 Actual trading results may differ significantly.
+
+
+## Disclaimer
+
+This project is intended for educational and research purposes only.  
+It does not constitute financial advice or a recommendation to trade.  
+
+Trading in derivatives, especially options, involves significant risk, including the potential loss of capital.  
+Use this system at your own discretion and responsibility.
